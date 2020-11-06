@@ -1,6 +1,6 @@
 # Advanced_Keylogger
 An keylogger that sends the logs to your email
-<h1>Features:<\h1>
+<h1>Features:</h1>
 Raw button mode(shows rawly button's name pressed)
 Ex:
 Raw button mode: HELLO[SPACE]WORLD
