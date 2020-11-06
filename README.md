@@ -1,7 +1,7 @@
 # Advanced_Keylogger
 A keylogger that sends the logs to your email with a few more features.
-<div class="text-red mb-2">
-  .text-red on white
+<div class="text-red bg-red-light mb-2">
+  .text-red on .bg-red-light
 </div>
 <h1>Features:</h1>
 <h2>Raw button mode</h2>
