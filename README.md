@@ -15,3 +15,7 @@ Some characters couldn't be written right for fixing that you can add the charac
 <h2>Fake pop-up</h2>
 Fake pop-up for tricking the victim.
 <img src="https://cdn.discordapp.com/attachments/734523179409866873/774290944903217182/unknown.png" width="800">
+
+<h2>Screenshoter</h2>
+Taking a screenshot with delay(can be crashed because of email attachment timeout).
+<img src="https://cdn.discordapp.com/attachments/734523179409866873/774292185327206410/unknown.png" width="800">
