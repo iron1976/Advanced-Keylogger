@@ -8,6 +8,6 @@ Normal button mode: Hello World
 
 <img src="https://cdn.discordapp.com/attachments/734523179409866873/774287594536042526/Capture.jpeg" width="800">
 
-<h2>Custom letters</h2>
-Some letters couldnt be written right for fixing that you can add the letters that arent written right
+<h2>Custom letters/Overriding a character</h2>
+Some characters couldn't be written right for fixing that you can add the characters that aren't written right
 <img src="https://cdn.discordapp.com/attachments/734523179409866873/774289178035748874/unknown.png" width="800">
